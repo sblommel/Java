@@ -47,7 +47,7 @@ public class CafeJava {
             System.out.println(customer3 + pendingMessage);
         }
 
-        System.out.println(customer3 + displayTotalMessage + ((lattePrice - dripcoffeePrice)));
+        System.out.println(customer3 + displayTotalMessage + (lattePrice - dripcoffeePrice));
 
 
     }
